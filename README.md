@@ -12,8 +12,8 @@
 
 ## Melhor Modelo
 
-![img](./Captura%20de%20tela%20de%202026-06-15%2001-17-08.png)
+![img](./img-exemplo.png)
 
 ## Ultimo Modelo
 
-![img](./Captura%20de%20tela%20de%202026-06-15%2001-20-03.png)
+![img](./img-exemplo-2.png)
